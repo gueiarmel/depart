@@ -1,0 +1,21 @@
+Cas Awa avec budget 50000 :
+> node .\depenses.js
+> PS C:\Users\DELL\Downloads\depart> node depenses.js
+Debugger attached.
+Nom : Awa
+Budget : 50000 FCFA
+Trois dépenses : 12500 FCFA, 18300 FCFA, 7500 FCFA
+Total : 38300 FCFA
+Reste : 11700 FCFA
+État du budget : true 
+
+Variation budget 30000 :
+> node .\depenses.js
+PS C:\Users\DELL\Downloads\depart> node depenses.js                                   
+Debugger attached.   
+Nom : Awa   
+Budget : 30000 FCFA   
+Trois dépenses : 12500 FCFA, 18300 FCFA, 7500 FCFA   
+Total : 38300 FCFA   
+Reste : -8300 FCFA   
+État du budget : false   

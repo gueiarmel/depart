@@ -1,21 +1,16 @@
-Cas Awa avec budget 50000 :
-> node .\depenses.js
-> PS C:\Users\DELL\Downloads\depart> node depenses.js
-Debugger attached.
-Nom : Awa
-Budget : 50000 FCFA
-Trois dépenses : 12500 FCFA, 18300 FCFA, 7500 FCFA
-Total : 38300 FCFA
-Reste : 11700 FCFA
-État du budget : true 
+PS C:\Users\DELL\Documents\Cours JS\recette-cinema> node partie1
+Age : 11, prix du billet : 1500
+Age : 12, prix du billet : 1500
+Age : 13, prix du billet : 1500
+Age : 14, prix du billet : 1500
+Age : 15, prix du billet : 1500
+Age : 16,prix du billet : 2500
+Age : 17,prix du billet : 2500
+Age : 18,prix du billet : 2500
+Age : 19,prix du billet : 2500
+Age : 20,prix du billet : 2500
+Recettetotale : 20000
+Totalticek : 10
 
-Variation budget 30000 :
-> node .\depenses.js
-PS C:\Users\DELL\Downloads\depart> node depenses.js                                   
-Debugger attached.   
-Nom : Awa   
-Budget : 30000 FCFA   
-Trois dépenses : 12500 FCFA, 18300 FCFA, 7500 FCFA   
-Total : 38300 FCFA   
-Reste : -8300 FCFA   
-État du budget : false   
+PS C:\Users\DELL\Documents\Cours JS\recette-cinema> node partie2
+Recettetotal : 18500

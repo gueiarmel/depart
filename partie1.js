@@ -23,4 +23,4 @@ while (age >= 11 && age <= 20) {
     Recettetotale = Recettete16p + Recettetem16
     console.log(`Recettetotale : ${Recettetotale}`)
     Totalticket = billet16p + billetm16
-    console.log(`Totalticek : ${Totalticket}`)
+    console.log(`Totalticket : ${Totalticket}`)
